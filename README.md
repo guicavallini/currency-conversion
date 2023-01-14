@@ -11,7 +11,6 @@
 <h2>
 📄 Sobre o projeto
 </h2>
-
 <p>
 Esse projeto foi feito para praticar HTML, CSS e aprofundar meus conhecimentos em Javascript
 </p>
@@ -19,9 +18,13 @@ Esse projeto foi feito para praticar HTML, CSS e aprofundar meus conhecimentos e
 <h2>
 💻 Tecnologias ultilizadas
 </h2>
-
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
+
+<h2>
+🔗 Link 
+</h2>
+<p>Confira agora o<a href="https://guicavallini.github.io/currency-conversion/" target="_blank"> Conversor de Moedas</a></p>
