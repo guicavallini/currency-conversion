@@ -9,6 +9,11 @@
 <br>
 
 <h2>
+🔗 Link 
+</h2>
+<p>Confira agora o<a href="https://guicavallini.github.io/currency-conversion/" target="_blank"> Conversor de Moedas</a></p>
+
+<h2>
 📄 Sobre o projeto
 </h2>
 <p>
