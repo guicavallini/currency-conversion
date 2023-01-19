@@ -29,7 +29,4 @@ Esse projeto foi feito para praticar HTML, CSS e aprofundar meus conhecimentos e
   <li>JavaScript</li>
 </ul>
 
-<h2>
-🔗 Link 
-</h2>
-<p>Confira agora o<a href="https://guicavallini.github.io/currency-conversion/" target="_blank"> Conversor de Moedas</a></p>
+
